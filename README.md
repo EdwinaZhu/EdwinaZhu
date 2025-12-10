@@ -2,13 +2,6 @@
 
 🎓 I’m a Master’s student at Carnegie Mellon University (INI, Mobile & IoT Engineering).  
 💻 I’m passionate about **cloud infrastructure, cloud-native development and databases**.  
-🌱 Currently contributing to open source through **[CloudNativePG](https://github.com/cloudnative-pg/cloudnative-pg)** (a CNCF project), where I’ve implemented declarative management of PostgreSQL **Foreign Data Wrappers (FDWs)** and **Foreign Servers**.  
-
----
-
-### 🔭 Current Work
-- **Open Source (CNCF)**: Contributed to [CloudNativePG](https://github.com/cloudnative-pg/cloudnative-pg), implementing declarative management of PostgreSQL **Foreign Data Wrappers (FDWs)** and **Foreign Servers**, enabling lifecycle management of external data sources in Postgres.  
-- **Strata**: Expanding intermediate representations (IRs) for **TypeScript** in [Strata](https://github.com/strata-org/Strata), a Lean-based framework for reasoning about programming languages.  
 
 ---
 
