@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Ying (Edwina)
 
 🎓 I’m a Master’s student at Carnegie Mellon University (INI, Mobile & IoT Engineering).  
-💻 I’m passionate about **cloud infrastructure, cloud-native development and databases**.  
+💻 I’m passionate about **agent runtime development, cloud-native development and databases**.  
 
 ---
 
